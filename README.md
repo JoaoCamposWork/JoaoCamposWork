@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o @JoaoCampos
+- 👋 Oi, eu sou o <b>Joao Campos </b>
 - 👀 Estou interessado em Estagio Front-end.
 - 🌱 Estou atualmente Estudando Sistemas da informação.
 - 💞️ Estou procurando colaborar em fazer projetos front end .
