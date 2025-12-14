@@ -28,7 +28,7 @@
 
 
 - 👋 Oi, eu sou o <b>Joao Campos </b>
-- 👀 Estou interessado em Estagio.
+- 👀 Estou interessado em uma vaga de Desenvolvedor Junior.
 - 🌱 Estou atualmente Estudando Sistemas da informação.
 - 💞️ Estou procurando colaborar em fazer projetos front end e back end com java.
 - 📫 Entre em contato comigo.
