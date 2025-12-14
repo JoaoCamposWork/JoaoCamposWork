@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=28&pause=1000&color=074DF7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=hello+my+name+is+Jo%C3%A3o+Campos+!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=28&pause=1000&color=074DF7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=hello+my+name+is+Jo%C3%A3o+Campos+!;Dev+Junior+Java+)](https://git.io/typing-svg)
 
 
 
@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
 </div><br/>
 
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaocamposwork&show_icons=true&theme=Dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocamposwork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
